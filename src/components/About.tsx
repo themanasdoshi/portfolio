@@ -2,7 +2,7 @@
 import { motion } from 'framer-motion';
 import { FiMapPin, FiMonitor, FiBook, FiAward } from 'react-icons/fi';
 import { SiLeagueoflegends } from 'react-icons/si';
-import { useEffect, useRef } from 'react';
+
 
 const About = () => {
   // const canvasRef = useRef<HTMLCanvasElement>(null);
