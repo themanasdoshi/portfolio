@@ -104,7 +104,7 @@ const About = () => {
               <div className="space-y-3">
                 <div className="flex justify-between items-center">
                   <span className="text-gray-600 dark:text-gray-300">University (Current)</span>
-                  <span className="text-blue-500 font-semibold">9.07/10</span>
+                  <span className="text-blue-500 font-semibold">9.01/10</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-gray-600 dark:text-gray-300">12th Grade</span>
@@ -149,10 +149,6 @@ const About = () => {
                 <div className="flex items-center space-x-3">
                   <FiBook className="text-blue-500 text-xl" />
                   <p className="text-gray-600 dark:text-gray-300">Anime</p>
-                </div>
-                <div className="flex items-center space-x-3">
-                  <SiLeagueoflegends className="text-blue-500 text-xl" />
-                  <p className="text-gray-600 dark:text-gray-300">League of Legends</p>
                 </div>
                 <div className="flex items-center space-x-3">
                   <FiBook className="text-blue-500 text-xl" />
